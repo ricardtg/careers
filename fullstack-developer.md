@@ -21,7 +21,7 @@ We are building the future of work, meaning we want to lead by example by:
 - Believing that fearless intelligent choices are the way to success.
 - Staying flexible and pragmatic.
 - Learning by doing. [It's ok to...](https://govdesign.tumblr.com/post/144909646023/its-ok-to).
-- Being simply different. We belive that diveristy is a game changer.
+- Being simply different. We believe that diversity is a game changer.
 - Loving async communication.
 
 ## Our offer 💡
@@ -29,9 +29,9 @@ We are building the future of work, meaning we want to lead by example by:
 Things we can offer:
 
 - Create an impact from day 1. We are an early-stage Startup, so there's plenty of things to do!
-- Working hand to hand with our experienced dev.
+- Working hand to hand with our CTO and other experienced devs.
 - No bullshit, we are transparent and humble.
-- More than average number of stock options.
+- More than average equity comp (phantom shares).
 - Competitive salary for an early-stage Startup. First, ~25 - ~35k after the investment seed round, it will be higher!
 
 
@@ -39,14 +39,14 @@ Things we can offer:
 
 We are looking for the 4th member to join our team!
 
-Our ideal candidate would be:
+Our ideal candidate is:
 
 - Passionate about software development. Very motivated to learn every day.
 - A good teammate. We will spend a lot of time together!
 - With a good startup mentality. Eager to participate and to work proactively.
 - A clean code and attention to detail lover.
 - _Bonus_: +2 years of experience in the production environment web/mobile apps with similar tech stack.
-- _Edit 25/05/2020_: At the moment, due the technical roadmap, we need someone who already have experience with Python
+- _Edit 25/05/2020_: At the moment, due the technical roadmap, we need someone who already has experience with Python.
 
 
 ## Tech stack 💻
@@ -58,7 +58,7 @@ You should be able learn and understand the current implementation:
 - Backend: [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/1.1.x/) 
 - Data Base: [MongoDB Atlas](https://www.mongodb.com)
 
-It doesn't matter if you don't know all our tech stack. We are all deveolpers after all!
+It doesn't matter if you don't know all our tech stack. We are all developers after all!
 
 Don't you like this stack for very valid reasons? Worry not! Come, tell us why and let's improve our code together. 🤝
 
